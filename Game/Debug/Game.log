@@ -1,0 +1,3 @@
+﻿  Game.cpp
+c:\users\hieu\documents\visual studio 2015\projects\projectwumpus\game\game.cpp(603): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.vcxproj -> c:\users\hieu\documents\visual studio 2015\Projects\ProjectWumpus\Debug\Game.exe
